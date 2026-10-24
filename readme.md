@@ -135,6 +135,12 @@ MailBlast 的做法是：**发信通道仍是你自己的 SMTP 邮箱**（Gmail 
 
 ---
 
+## 下载地址
+
+https://github.com/SyncMeIn/MailBlast/releases
+
+---
+
 ## 当前版本说明
 
 为保证预期一致，以下为当前版本的实际情况：
